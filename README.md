@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm harshnipane</h1>
 <h3 align="center">📚 Constantly curious and forever learning. “I don’t know it all, but I will figure it out”. 🤖 Enthusiastic about Machine learning and its potential to transform the world</h3>
 
-- 🌱 I’m currently **Upgrading**
+
+- Hi 👋, I'm harshnipane
+
+- 🌱 I’m currently Upgrading
 
 - 👨‍💻 Let's explore the vast world of technology together!💡
 
-- 📫 How to reach me **harshnipa8@gmail.com**
+- 📫 How to reach me harshnipa8@gmail.com
 
 - ⚡ Fresher Eager to Make an Impact"
 

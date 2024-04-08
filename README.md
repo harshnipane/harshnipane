@@ -11,7 +11,7 @@
 
 - 🤖 Enthusiastic about Machine learning and its potential to transform the world
 
-### Constantly curious and forever learning. “I don’t know it all, but I will figure it out”. Every day I come to learn, I find out I know less.
+#### Constantly curious and forever learning. “I don’t know it all, but I will figure it out”. Every day I come to learn, I find out I know less.
 
 
 <br>
